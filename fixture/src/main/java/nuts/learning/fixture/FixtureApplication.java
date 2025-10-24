@@ -9,5 +9,4 @@ public class FixtureApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(FixtureApplication.class, args);
 	}
-
 }
